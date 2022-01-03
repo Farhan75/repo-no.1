@@ -4,3 +4,7 @@ ul {
 input {
   margin-bottom: 10px;
 }
+img {
+  height: 500px;
+  width: auto;
+}
